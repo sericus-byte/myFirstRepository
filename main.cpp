@@ -3,6 +3,6 @@ using namespace std;
 
 void main() 
 {
-    cout << "Test Program" << endl;
-    cout << "New Print Command";
+    cout << "Test Program";
+    cout << "Creating conflict";
 }
